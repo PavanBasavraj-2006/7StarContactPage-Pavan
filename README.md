@@ -1,6 +1,6 @@
 Hotel Booking - Contact Us Page
 Overview
-This is a responsive Contact Us page for a hotel booking website named "Grand Horizon Hotel". The page includes a contact form, hotel contact information, and an interactive Google Maps section.
+This is a responsive Contact Us page for a hotel booking website named "7-Star Hotel". The page includes a contact form, hotel contact information, and an interactive Google Maps section.
 
 Features
 Responsive Design: Adapts to all screen sizes from mobile to desktop
